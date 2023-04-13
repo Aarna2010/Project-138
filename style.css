@@ -1,0 +1,45 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align:left;
+    padding: 10px;
+}
+
+.heading h1
+{
+    display:inline;
+    letter-spacing: 6px;
+    font-variant: small-caps;
+    text-decoration: underline overline;
+    font-family: monospace;
+}
+
+.heading button
+{
+    float:right;
+    font-size: 18px;
+    border: 3px dashed darkblue;
+}
+
+#start
+{
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    letter-spacing: 6px;
+    font-family: monospace;
+
+}
+
+#status
+{
+    font-size: 20px;
+    font-family: monospace;
+    border: 3px dashed white;
+}
