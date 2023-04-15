@@ -25,6 +25,7 @@ body
     float:right;
     font-size: 18px;
     border: 3px dashed darkblue;
+    font-family: 'Notable', sans-serif;
 }
 
 #start
@@ -43,3 +44,17 @@ body
     font-family: monospace;
     border: 3px dashed white;
 }
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+    line-height: 3;
+    font-family: 'Courier New', Courier, monospace
+}
+
