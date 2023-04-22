@@ -58,3 +58,10 @@ body
     font-family: 'Courier New', Courier, monospace
 }
 
+canvas
+{
+    border-color: lightpink;
+    border-width: 5px;
+    box-shadow: 5px 5px 5px darkblue;
+}
+
